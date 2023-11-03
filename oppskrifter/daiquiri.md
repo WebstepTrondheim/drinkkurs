@@ -1,18 +1,21 @@
 # Daiquiri
 
-###Utstyr:
+### utstyr:
 
-Stettglass
-Shaker
-Sukkerlake 2:1
-Måler
+stettglass
 
-###Blanding:
-4 cl Grand Reserve (rom)
+shaker
 
-2 cl Limejuice
+sukkerlake 2:1
+
+jigger/måler
+
+### blanding:
+4 cl grand reserve (rom)
+
+2 cl limejuice
 
 1 cl sukkerlake (2:1)
 
 
-Shakes og serveres på stettglass
+shakes og serveres på stettglass
