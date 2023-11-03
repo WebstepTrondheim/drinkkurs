@@ -1,4 +1,4 @@
-#🍹drinkkurs🍹
+# 🍹drinkkurs🍹
 Velkommen til drinkkurs repoet!
 
 Oppskriftene er beregnet til en drink
@@ -18,7 +18,7 @@ Oppskriftene er beregnet til en drink
 | [grenadine](https://en.wikipedia.org/wiki/Grenadine) |
 
 
-###4-2-1 Blanding:
+### 4-2-1 Blanding:
 [Daiquiri](oppskrifter/daiquiri)
 
 
