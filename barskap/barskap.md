@@ -16,6 +16,9 @@ Smirnoff No21 - https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/120680
 ### Whiskey
 Bulleit Kentucky Straight Bourbon - https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101
 
+---
+
 ### Likør
 
-Creme Du Mure, Giffard - https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702
+Creme De Mure, Giffard - https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702
+

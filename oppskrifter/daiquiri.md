@@ -6,8 +6,6 @@ stettglass
 
 shaker
 
-sukkerlake 2:1
-
 jigger/måler
 
 ### blanding:
