@@ -1,6 +1,3 @@
-### Amaretto
-DiSaronno Amaretto - https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802
-
 ### Rom
 Grand Reserve Barbados - https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001
 
@@ -21,4 +18,6 @@ Bulleit Kentucky Straight Bourbon - https://www.vinmonopolet.no/Land/USA/Kentuck
 ### Likør
 
 Creme De Mure, Giffard - https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702
+
+DiSaronno Amaretto - https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802
 
