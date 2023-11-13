@@ -1,12 +1,5 @@
 [
   {
-    "id": 100,
-    "type": "amaretto",
-    "name": "DiSaronno Amaretto",
-    "url": "https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802",
-    "onHand": false
-  },
-  {
     "id": 200,
     "type": "gin",
     "name": "Tanqueray Dry London Gin",
@@ -45,6 +38,13 @@
     "type": "likor",
     "name": "Giffard Creme de Mure",
     "url": "https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702",
+    "onHand": false
+  },
+  {
+    "id": 901,
+    "type": "likor",
+    "name": "DiSaronno Amaretto",
+    "url": "https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802",
     "onHand": false
   }
 ]
