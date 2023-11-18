@@ -10,9 +10,9 @@ Oppskriftene er beregnet til en drink
 | ingredienser                                             | utstyr           | glass       |
 |----------------------------------------------------------|------------------|------------|
 | 🍬🍬/💧 2:1 (kg/L) && <br> 🍬/💧 1:1 sukkerlake          | 💪 shaker        |🥛 high ball |
-| 🟢 limejuice                                             | 🕸 strainer      |🥃 low ball  |
-| 🟡 sitronjuice                                           | 📏 jigger(måler) |🍸 stett     |
-| 🫘+💧 [aquafaba](https://en.wikipedia.org/wiki/Aquafaba) |                  |
+| 🍈 limejuice                                             | 🕸 strainer      |🥃 low ball  |
+| 🍋 sitronjuice                                           | 📏 jigger(måler) |🍸 stett     |
+| 🫘 +💧 [aquafaba](https://en.wikipedia.org/wiki/Aquafaba) |                  |
 
 
 | spesial                                                   |
