@@ -39,7 +39,7 @@ Ristet eller rørt
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 3 cl [tanqueray gin](https://www.vinmonopolet.no/Land/England/Tanqueray-London-Dry-Gin/p/1201401)<br> 1 cl [giffard creme du mure](https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 2 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br> 2 cl [disaronno amaretto](https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba |
 
-#### Rørte cocktails - highball 🥛
+#### Rørte cocktails - highball 🥛:
 | [**Shirley Temple**](oppskrifter/shirleyTemple.md)                                                                                                                      | [**Mojito**](oppskrifter/mojito.md)                                                                                                                                                      | [**La Palouma**](oppskrifter/laPalouma.md)                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4 cl [smirnoff no21 vodka](https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/1206801) <br>2 cl limejuice<br>2 cl grenadine<br> etterfyll med ingefærøl/limebrus | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>2.5 cl limejuice<br>2 cl sukkerlake (2:1)<br>4-8 mynteblad | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>1 cl limejuice<br>etterfyll med grapefrukt brus |
@@ -52,12 +52,12 @@ Ristet eller rørt
 <br>Litt av det som er artig med å lage egne varianter av drinker er at du kan tilpasse dem
 <br>Hvis du synes en drink smaker bare lime, ta litt mindre lime og mer sukker, likte du den mer eller mindre?
 <br>Kjenn litt på hva det er du liker med drinken og prøv deg frem
-<br>Neste gang du bestiller en drink på bar kan du spørre om du kan få den litt søtere alt etter preferanse
+<br>Neste gang du bestiller en drink på bar kan du spørre om du kan få den litt søtere, alt etter preferanse
 
 **Utvanningsgrad og oksygenering**
-<br>Utvanningsgraden på drinker har mye å si for hvordan de smaker
-<br>feks knust is(små) har større flate mot alkoholen og brukes derfor i drinker man ikke shaker - den vanner ut mer raskere
-<br>Prøv å fyll en shaker med bare alkohol delen av drinken og rist den opp og en som du ikke rister, kjenn på forskjellen i drinken bare ved å "lufte" den
+<br>Utvanningsgraden på drinker har mye å si for hvordan de smaker, derfor har størrelsen på isen smakspåvirkning
+<br>Knust is(små ca 1.5-2cm³) har større flate mot drinken enn vanlig is, og vanner derfor ut raskere - brukes i drinker man ikke shaker
+<br>For å forstå hva oksygenering av drinken gjør - prøv å fyll en shaker med bare alkohol delen av drinken og rist den opp og lag en som du ikke rister, kjenn på forskjellen i drinken bare ved å "lufte" den
 
 **Flere drinker i samme shaker**
 <br>Blanding av flere drinker i samme shaker er mulig, pass på at utvanningsgraden fortsatt er den samme
