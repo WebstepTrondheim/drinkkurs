@@ -2,7 +2,7 @@ Legg til en "how to" link på Aquafaba/Grenadine/Muscovie syrup
 
 Finn en video eller noe som forklareer hvordan man skal shake
 
-"Avansert" seksjon - mikse flere drinker samtidig/mocktails
+ristet vs rørt - bygge drinken i glasset
 
 Legg til nye oppskrifter + shirley temple
 

@@ -46,6 +46,45 @@
     "name": "DiSaronno Amaretto",
     "url": "https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802",
     "onHand": false
+  },
+  {
+    "id": 902,
+    "type": "likor",
+    "name": "Cointreau",
+    "url": "https://www.vinmonopolet.no/Land/Frankrike/Cointreau/p/24102",
+    "onHand": false
+  },
+  {
+    "id": 1200,
+    "type": "alkoholfri",
+    "name": "Ginish&Tonic",
+    "flavor": "gin",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Ginish-%26-Tonic/p/12947704",
+    "onHand": false
+  },
+  {
+    "id": 1201,
+    "type": "alkoholfri",
+    "name": "Ish London Botanical Spirit",
+    "flavor": "gin",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/ISH-London-Botanical-Spirit/p/13385002",
+    "onHand": false
+  },
+  {
+    "id": 1300,
+    "type": "alkoholfri",
+    "name": "Ish Caribbean Spicied Spirit",
+    "flavor": "rom",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Ish-Caribbean-Spiced-Spirit/p/14603502",
+    "onHand": false
+  },
+  {
+    "id": 1301,
+    "type": "alkoholfri",
+    "name": "Rummish",
+    "flavor": "rom",
+    "url":"https://www.vinmonopolet.no/Land/Danmark/Rumish/p/11284202",
+    "onHand": false
   }
 ]
 
