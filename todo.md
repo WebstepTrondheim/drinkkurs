@@ -1,12 +1,6 @@
-Legg til en "how to" link på Aquafaba/Grenadine/Muscovie syrup
-
-Finn en video eller noe som forklareer hvordan man skal shake
+Finn en video eller noe som forklarer hvordan man skal shake
 
 ristet vs rørt - bygge drinken i glasset
-
-Legg til nye oppskrifter + shirley temple
-
-Bruk emojis som også funker på Mac - 🟡 🟢 🫘 funker ikke
 
 Lag .md oppskriftene for generering
 -Shirleytemple,Mojito,La Palouma, Old fashioned

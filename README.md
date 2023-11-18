@@ -26,6 +26,8 @@ Shaking
 
 Ristet eller rørt
 
+Bonus - garnityr
+
 ----
 ### Oppskrifter:
 
@@ -48,9 +50,9 @@ Ristet eller rørt
 
 
 #### Rørte cocktails - knust is - highball 🥛:
-| [**Shirley Temple**](oppskrifter/shirleyTemple.md)                                                                                                                      | [**Mojito**](oppskrifter/mojito.md)                                                                                                                                                      | [**La Palouma**](oppskrifter/laPalouma.md)                                                                                                                               |
-|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 cl [smirnoff no21 vodka](https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/1206801) <br>2 cl limejuice<br>2 cl grenadine<br> etterfyll med ingefærøl/limebrus | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>2.5 cl limejuice<br>2 cl sukkerlake (2:1)<br>4-8 mynteblad | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>1 cl limejuice<br>etterfyll med grapefrukt brus |
+| [**Shirley Temple**](oppskrifter/shirleyTemple.md) <br>![shirleyTemple](/media/shirleyTemple.jpg)                                                                  | [**Mojito**](oppskrifter/mojito.md) <br>![mojito](/media/mojito.jpg)                                                                                                                | [**La Palouma**](oppskrifter/laPalouma.md) <br>![laPalouma](/media/laPalouma.jpg)                                                                                        |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 cl [smirnoff no21 vodka](https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/1206801) <br>1 cl limejuice<br>2 cl grenadine<br> etterfyll med ingefærøl/limebrus | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>2.5 cl limejuice<br>2 cl sukkerlake (2:1)<br>4-8 mynteblad | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>1 cl limejuice<br>etterfyll med grapefrukt brus |
 
 ---
 ### Teoridel
