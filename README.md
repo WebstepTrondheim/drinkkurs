@@ -57,7 +57,7 @@ Ristet eller rørt
 **Utvanningsgrad og oksygenering**
 <br>Utvanningsgraden på drinker har mye å si for hvordan de smaker, derfor påvirker størrelsen på isen smaken
 <br>Knust is(små ca 1.5-2cm³) har større flate mot drinken enn vanlig is, og vanner derfor ut raskere - brukes i drinker man ikke shaker
-<br>For å forstå hva oksygenering gjør med drinken - prøv å fyll en shaker med bare alkohol delen av drinken og rist den opp og lag en som du ikke rister, kjenn på forskjellen i drinken bare ved å "lufte" den
+<br>For å forstå hva oksygenering gjør med drinken - prøv å fyll en shaker med bare alkoholdelen av drinken og rist den opp og lag en som du ikke rister på si, kjenn på forskjellen i drinken du får bare ved å "lufte" den
 
 **Flere drinker i samme shaker**
 <br>Blanding av flere drinker i samme shaker er mulig, pass på at utvanningsgraden fortsatt er den samme
