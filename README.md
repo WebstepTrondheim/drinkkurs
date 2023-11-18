@@ -15,9 +15,10 @@ Oppskriftene er beregnet til en drink
 | 🫘+💧 [aquafaba](https://en.wikipedia.org/wiki/Aquafaba) |                  |
 
 
-| spesial                                                  |
-|----------------------------------------------------------|
-| [grenadine](https://en.wikipedia.org/wiki/Grenadine)     |
+| spesial                                                   |
+|-----------------------------------------------------------|
+| [grenadine](https://en.wikipedia.org/wiki/Grenadine)      | 
+| [brunsukkerlake](https://cocktaildudes.com/recipe/muscovado-simple-syrup/) | 
 
 ### Forkunnskaper
 
@@ -28,22 +29,28 @@ Ristet eller rørt
 ----
 ### Oppskrifter:
 
-#### 4-2-1 Blanding - stett 🍸 :
+#### 4-2-1 Blanding - shaker - stett 🍸 :
 
 | [**Daiquiri**](oppskrifter/daiquiri.md)                               | [**Margerita**](oppskrifter/margerita.md)                                                                                                                                                                                                     | [**Gimlet/Southside**](oppskrifter/gimlet.md)                                                                                                                                      |
 |----------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>2 cl limejuice<br>1 cl sukkerlake (2:1) | 4 OR 3.5 cl [patrón tequila](https://www.vinmonopolet.no/Land/Mexico/Patr%C3%B3n-Silver/p/5949101) <br>(IF 3.5 ADD 1 cl [cointreau](https://www.vinmonopolet.no/Land/Frankrike/Cointreau/p/24102))<br>2 cl limejuice<br>1 cl sukkerlake (2:1) | 4 cl [tanqueray gin](https://www.vinmonopolet.no/Land/England/Tanqueray-London-Dry-Gin/p/1201401) <br>2 cl limejuice<br>1 cl sukkerlake (2:1)<br> (IF Southside ADD 4-8 mynteblad) |
 
-#### 4-3-2 Blanding - lowball 🥃:
-| [**Whiskey-Sour**](oppskrifter/whiskey-sour.md)                                                                                                                                    | [**Bramble**](oppskrifter/bramble.md)                                                                                                                                                                                                                                                           | [**Amaretto-Sour**](oppskrifter/amaretto-sour.md)                                                                                                                                                                                                                                       |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 4 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 3 cl [tanqueray gin](https://www.vinmonopolet.no/Land/England/Tanqueray-London-Dry-Gin/p/1201401)<br> 1 cl [giffard creme du mure](https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 2 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br> 2 cl [disaronno amaretto](https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba |
+#### 4-3-2 Blanding - shaker - lowball 🥃:
+| [**Whiskey-Sour**](oppskrifter/whiskey-sour.md)                                                                                                                                                                                                                                     | [**Amaretto-Sour**](oppskrifter/amaretto-sour.md)                                                                                                                                                                                                                                       |
+|---------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 4 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 2 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br> 2 cl [disaronno amaretto](https://www.vinmonopolet.no/Land/Italia/DiSaronno-Amaretto/p/4322802) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba |
 
-#### Rørte cocktails - highball 🥛:
+
+#### Rørte cocktails - vanlig is - lowball 🥃:
+| [**Old Fashioned**](oppskrifter/oldFashioned.md)                                                                                                                              | [**Bramble**](oppskrifter/bramble.md)                                                                                                                                                                                                                                                        |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|
+| 4 cl [bulleit bourbon](https://www.vinmonopolet.no/Land/USA/Kentucky/Bulleit-Kentucky-Straight-Bourbon/p/1671101) <br>2 dråper [angostura bitter](https://www.vinmonopolet.no/Land/Trinidad-og-Tobago/Angostura-Cocoa-Bitters/p/12373903)<br>0.75 cl brunsukkerlake | 3 cl [tanqueray gin](https://www.vinmonopolet.no/Land/England/Tanqueray-London-Dry-Gin/p/1201401)<br> 1 cl [giffard creme du mure](https://www.vinmonopolet.no/Land/Frankrike/Loire/Giffard-Cr%C3%A8me-de-M%C3%BBre/p/7392702) <br>3 cl sitronjuice<br>2 cl sukkerlake (1:1)<br>1.5 cl aquafaba | 
+
+
+#### Rørte cocktails - knust is - highball 🥛:
 | [**Shirley Temple**](oppskrifter/shirleyTemple.md)                                                                                                                      | [**Mojito**](oppskrifter/mojito.md)                                                                                                                                                      | [**La Palouma**](oppskrifter/laPalouma.md)                                                                                                                               |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 4 cl [smirnoff no21 vodka](https://www.vinmonopolet.no/Land/England/Smirnoff-No-21/p/1206801) <br>2 cl limejuice<br>2 cl grenadine<br> etterfyll med ingefærøl/limebrus | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>2.5 cl limejuice<br>2 cl sukkerlake (2:1)<br>4-8 mynteblad | 4 cl [grand reserve rom](https://www.vinmonopolet.no/Land/Barbados/Plantation-Rum-Grande-Reserve-Barbados/p/1918001) <br>1 cl limejuice<br>etterfyll med grapefrukt brus |
-
 
 ---
 ### Teoridel
@@ -56,7 +63,7 @@ Ristet eller rørt
 
 **Utvanningsgrad og oksygenering**
 <br>Utvanningsgraden på drinker har mye å si for hvordan de smaker, derfor påvirker størrelsen på isen smaken
-<br>Knust is(små ca 1.5-2cm³) har større flate mot drinken enn vanlig is, og vanner derfor ut raskere - brukes i drinker man ikke shaker
+<br>Knust is(ca 1.5-2cm³) har større flate mot drinken enn vanlig is og vanner derfor ut raskere - brukes i drinker man ikke shaker
 <br>For å forstå hva oksygenering gjør med drinken - prøv å fyll en shaker med bare alkoholdelen av drinken og rist den opp og lag en som du ikke rister på si, kjenn på forskjellen i drinken du får bare ved å "lufte" den
 
 **Flere drinker i samme shaker**
