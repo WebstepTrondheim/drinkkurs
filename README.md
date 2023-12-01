@@ -21,6 +21,9 @@ Oppskriftene er beregnet til en drink
 | [brunsukkerlake](https://cocktaildudes.com/recipe/muscovado-simple-syrup/) | 
 
 ### Forkunnskaper
+**Sukkerlake**
+<br>Sukkerlaken lages med varmt vann slik at sukkeret løses opp skikkelig
+<br>Hvis du har dårlig tid kan du ta en del med varmt vann, og resten med kaldt etter at det er utblandet
 
 **Shaking - [1 min Demo](https://www.youtube.com/watch?v=Apjt0Oo5tXs)**
 <br>Kort fortalt - vi rister cocktailen for å tilføre oksygen, blande ut drinkdelen med vann for å få balanse og kjøle den
