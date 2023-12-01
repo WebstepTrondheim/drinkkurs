@@ -24,7 +24,7 @@ Oppskriftene er beregnet til en drink
 
 **Shaking**
 <br>Kort fortalt - vi rister cocktailen for å tilføre oksygen, blande ut drinkdelen med vann for å få balanse og kjøle den
-<br>[1 min Demo](https://www.youtube.com/watch?v=Apjt0Oo5tXs)
+[1 min Demo](https://www.youtube.com/watch?v=Apjt0Oo5tXs)
 <br>Prøv å rist i en sirkulær bevegelse mer enn rett opp og ned for å få mer oksygen inn
 
 **Ristet eller rørt**
